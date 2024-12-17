@@ -1,0 +1,11 @@
+div{
+    
+    text-align: center;
+    position: relative;
+    background-image: url(https://wallpapercave.com/wp/wp3864067.jpg);
+    background-position: center;
+    background-size: cover;
+    color: red;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}

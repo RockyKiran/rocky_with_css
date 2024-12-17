@@ -1,0 +1,15 @@
+div{
+    /* border: 30px solid blue; */x
+    border-top: 20px dott;
+    border-right: 20px ;
+    height: 50px;
+    width: 70%;
+    /* padding-left: 553px; */
+    padding: 40px none none 550px;
+}
+button{
+    border: 2px solid red;
+    height: 50px;
+    width: 60%;
+    padding-right: 500px;
+}
